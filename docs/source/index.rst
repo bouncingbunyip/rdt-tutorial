@@ -17,5 +17,7 @@ Contents
 
 .. toctree::
 
+   getting_started
    usage
+   form_with_fieldset
    api
