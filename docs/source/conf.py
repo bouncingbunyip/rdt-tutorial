@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'BunyipFormBuilder'
+copyright = '2022, Chris Hubbard'
+author = 'Chris Hubbard'
 
 release = '0.1'
 version = '0.1.0'
