@@ -3,9 +3,9 @@ API
 
 According to `W3C <https://www.w3schools.com/html/html_form_input_types.asp>`_ the following are all the HTML form elements 
 
-    * <input type="button">
-    * <input type="checkbox">
-    * :ref:`<input type="color">`
+    * <input type="`button <elements/button.html>`_">
+    * <input type="`checkbox <elements/checkbox.html>`_">
+    * <input type="color">
     * <input type="date">
     * <input type="datetime-local">
     * <input type="email">
@@ -25,3 +25,5 @@ According to `W3C <https://www.w3schools.com/html/html_form_input_types.asp>`_ t
     * <input type="time">
     * <input type="url">
     * <input type="week">
+
+__ .. _button: elements/button.html
